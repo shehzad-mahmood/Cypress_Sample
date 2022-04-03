@@ -1,0 +1,307 @@
+{
+    "SolutionPricingCM": {
+        "ComponentLineItemPricingCMs": [
+            {
+                "ComponentLineItemId": "0fbbfa48ca887819",
+                "ComponentLineItemCM": {
+                    "$id": "1",
+                    "Distributor": null,
+                    "AlertMessages": [],
+                    "IsChangeTrackingEnabled": false,
+                    "ComponentSummaryItems": null,
+                    "ComponentPricing": [
+                        {
+                            "ComponentLineItemId": "0fbbfa48ca887819",
+                            "ProductId": "SingleItemModels/b6d24c6fb7c5296a",
+                            "TermId": "24",
+                            "Unit": "Megabyte",
+                            "PeriodForDisplay": 1,
+                            "ComponentFrequency": 0,
+                            "TotalDirectCost": 36.0,
+                            "TotalIndirectCost": 0.0,
+                            "TotalListPrice": 0.0,
+                            "TotalPrice": 0.0,
+                            "TotalAdjustedPrice": 0.0,
+                            "IsFixedQuantity": false
+                        },
+                        {
+                            "ComponentLineItemId": "0fbbfa48ca887819",
+                            "ProductId": "SingleItemModels/b6d24c6fb7c5296a",
+                            "TermId": "24",
+                            "Unit": "Megabyte",
+                            "PeriodForDisplay": 1,
+                            "ComponentFrequency": 0,
+                            "TotalDirectCost": 0.0,
+                            "TotalIndirectCost": 0.0,
+                            "TotalListPrice": 60.0,
+                            "TotalPrice": 50.0,
+                            "TotalAdjustedPrice": 50.0,
+                            "IsFixedQuantity": false
+                        },
+                        {
+                            "ComponentLineItemId": "0fbbfa48ca887819",
+                            "ProductId": "SingleItemModels/b6d24c6fb7c5296a",
+                            "TermId": "24",
+                            "Unit": "Megabyte",
+                            "PeriodForDisplay": 1,
+                            "ComponentFrequency": 0,
+                            "TotalDirectCost": 9.0,
+                            "TotalIndirectCost": 0.0,
+                            "TotalListPrice": 0.0,
+                            "TotalPrice": 0.0,
+                            "TotalAdjustedPrice": 0.0,
+                            "IsFixedQuantity": false
+                        },
+                        {
+                            "ComponentLineItemId": "0fbbfa48ca887819",
+                            "ProductId": "SingleItemModels/b6d24c6fb7c5296a",
+                            "TermId": "24",
+                            "Unit": "Megabyte",
+                            "PeriodForDisplay": 1,
+                            "ComponentFrequency": 4,
+                            "TotalDirectCost": 0.0,
+                            "TotalIndirectCost": 0.0,
+                            "TotalListPrice": 60.0,
+                            "TotalPrice": 50.0,
+                            "TotalAdjustedPrice": 50.0,
+                            "IsFixedQuantity": false
+                        }
+                    ],
+                    "LineItemGroups": [],
+                    "ParentId": null,
+                    "InfoMessage": null,
+                    "IsCreatedBySolutionUpload": false,
+                    "SelectedLeasedLinePricing": null,
+                    "IsRenameAllowed": false,
+                    "ClientDescription": null,
+                    "PricingGroup": null,
+                    "DynamicProductVm": null,
+                    "ResourceActivities": null,
+                    "IsLockedActivites": false,
+                    "SolutionItemId": null,
+                    "AdditionalNotes": null,
+                    "AlertStatus": 0,
+                    "AlertStatusF": null,
+                    "Alias": "-",
+                    "BaseComponentModelId": "SingleItemModels/b6d24c6fb7c5296a",
+                    "CatalogueProductVersionId": "SingleItemModels/b6d24c6fb7c5296a/Active",
+                    "ChildComponentModelId": null,
+                    "ComponentInstanceId": null,
+                    "ComponentLineItemId": "0fbbfa48ca887819",
+                    "ComponentLineItemTags": {
+                        "$id": "2",
+                        "Tags": [
+                            {
+                                "$id": "3",
+                                "HasCalcEngineExpression": false,
+                                "DisplayMode": 3,
+                                "ExpressionText": null,
+                                "IsRequired": false,
+                                "LocalizedTagName": {
+                                    "CurrentCultureValue": "Number Tag Type",
+                                    "LocalizedLabels": [
+                                        {
+                                            "LabelText": "Number Tag Type",
+                                            "UICulture": "en"
+                                        }
+                                    ]
+                                },
+                                "TagName": "Number Tag Type",
+                                "TagKey": "Number Tag Type",
+                                "TagType": 3,
+                                "TagTypeMetadata": "",
+                                "TagValue": "10000",
+                                "Id": null,
+                                "DynamicAttributes": [],
+                                "SoftDeleteStatus": 0
+                            },
+                            {
+                                "$id": "4",
+                                "HasCalcEngineExpression": false,
+                                "DisplayMode": 3,
+                                "ExpressionText": null,
+                                "IsRequired": false,
+                                "LocalizedTagName": {
+                                    "CurrentCultureValue": "Choice Group Tag Type",
+                                    "LocalizedLabels": [
+                                        {
+                                            "LabelText": "Choice Group Tag Type",
+                                            "UICulture": "en"
+                                        }
+                                    ]
+                                },
+                                "TagName": "Choice Group Tag Type",
+                                "TagKey": "Choice Group Tag Type",
+                                "TagType": 1,
+                                "TagTypeMetadata": "AdminMetadataTypes",
+                                "TagValue": "",
+                                "Id": null,
+                                "DynamicAttributes": [],
+                                "SoftDeleteStatus": 0
+                            },
+                            {
+                                "$id": "5",
+                                "HasCalcEngineExpression": false,
+                                "DisplayMode": 3,
+                                "ExpressionText": null,
+                                "IsRequired": false,
+                                "LocalizedTagName": {
+                                    "CurrentCultureValue": "String Tag Type",
+                                    "LocalizedLabels": [
+                                        {
+                                            "LabelText": "String Tag Type",
+                                            "UICulture": "en"
+                                        }
+                                    ]
+                                },
+                                "TagName": "String Tag Type",
+                                "TagKey": "String Tag Type",
+                                "TagType": 2,
+                                "TagTypeMetadata": "",
+                                "TagValue": "",
+                                "Id": null,
+                                "DynamicAttributes": [],
+                                "SoftDeleteStatus": 0
+                            },
+                            {
+                                "$id": "6",
+                                "HasCalcEngineExpression": false,
+                                "DisplayMode": 3,
+                                "ExpressionText": null,
+                                "IsRequired": false,
+                                "LocalizedTagName": {
+                                    "CurrentCultureValue": "Boolean Tag Type",
+                                    "LocalizedLabels": [
+                                        {
+                                            "LabelText": "Boolean Tag Type",
+                                            "UICulture": "en"
+                                        }
+                                    ]
+                                },
+                                "TagName": "Boolean Tag Type",
+                                "TagKey": "Boolean Tag Type",
+                                "TagType": 5,
+                                "TagTypeMetadata": "",
+                                "TagValue": "true",
+                                "Id": null,
+                                "DynamicAttributes": [],
+                                "SoftDeleteStatus": 0
+                            },
+                            {
+                                "$id": "7",
+                                "HasCalcEngineExpression": false,
+                                "DisplayMode": 3,
+                                "ExpressionText": null,
+                                "IsRequired": false,
+                                "LocalizedTagName": {
+                                    "CurrentCultureValue": "Percentage Tag Type",
+                                    "LocalizedLabels": [
+                                        {
+                                            "LabelText": "Percentage Tag Type",
+                                            "UICulture": "en"
+                                        }
+                                    ]
+                                },
+                                "TagName": "Percentage Tag Type",
+                                "TagKey": "Percentage Tag Type",
+                                "TagType": 6,
+                                "TagTypeMetadata": "",
+                                "TagValue": "",
+                                "Id": null,
+                                "DynamicAttributes": [],
+                                "SoftDeleteStatus": 0
+                            }
+                        ],
+                        "Id": null,
+                        "DynamicAttributes": [],
+                        "SoftDeleteStatus": 0
+                    },
+                    "ComponentSummary": "",
+                    "DynamicPricingType": 5,
+                    "ExternalRef1": null,
+                    "ExternalRef2": null,
+                    "InputPricingModelCM": null,
+                    "IsLockedConfiguration": false,
+                    "Name": "Cypress-PriceFlexProduct",
+                    "PricingUnitF": null,
+                    "Quantity": 1.0,
+                    "RateCard": null,
+                    "RateCardComments": null,
+                    "RateCardTCO": 0.0,
+                    "RateCardTCOF": null,
+                    "SKU": "CYPPRICEFLEX",
+                    "SortOrder": 0,
+                    "TermFromMonth": null,
+                    "TermToMonth": null,
+                    "TotalPricingModelCM": {
+                        "IsAmortized": false,
+                        "CurrencyCode": "GBP",
+                        "PricingElements": [],
+                        "PricingElementSummaries": [
+                            {
+                                "MarginPercent": 0.1,
+                                "MarginPercentF": "10.0%",
+                                "PricingPrecision": 0,
+                                "AdjustedPrice": 50.0,
+                                "AdjustedPriceF": "£50.00",
+                                "DirectCost": 45.0,
+                                "DirectCostF": "£45.00",
+                                "TotalCost": 45.0,
+                                "TotalCostF": "£45.00",
+                                "Discount": 0.0,
+                                "DiscountF": "0.00%",
+                                "ElementType": 1,
+                                "ElementTypeF": "One-Time",
+                                "FrequencyOrDateType": 1,
+                                "FrequencyOrDateTypeF": "Contract Start Date",
+                                "FrequencyOrOneTime": "One Time",
+                                "ListPrice": 60.0,
+                                "ListPriceF": "£60.00",
+                                "Price": 50.0,
+                                "PriceF": "£50.00",
+                                "UnitPrice": 50.0,
+                                "UnitPriceAfterAdjustment": 50.0,
+                                "UnitPriceAfterAdjustmentF": "£50.00",
+                                "UnitPriceF": "£50.00"
+                            },
+                            {
+                                "MarginPercent": 1.0,
+                                "MarginPercentF": "100.0%",
+                                "PricingPrecision": 0,
+                                "AdjustedPrice": 50.0,
+                                "AdjustedPriceF": "£50.00",
+                                "DirectCost": 0.0,
+                                "DirectCostF": "£0.00",
+                                "TotalCost": 0.0,
+                                "TotalCostF": "£0.00",
+                                "Discount": 0.0,
+                                "DiscountF": "0.00%",
+                                "ElementType": 2,
+                                "ElementTypeF": "Recurring",
+                                "FrequencyOrDateType": 4,
+                                "FrequencyOrDateTypeF": "Monthly",
+                                "FrequencyOrOneTime": "Monthly",
+                                "ListPrice": 60.0,
+                                "ListPriceF": "£60.00",
+                                "Price": 50.0,
+                                "PriceF": "£50.00",
+                                "UnitPrice": 50.0,
+                                "UnitPriceAfterAdjustment": 50.0,
+                                "UnitPriceAfterAdjustmentF": "£50.00",
+                                "UnitPriceF": "£50.00"
+                            }
+                        ]
+                    },
+                    "IsRateCardApplied": false,
+                    "Id": null,
+                    "DynamicAttributes": null,
+                    "SoftDeleteStatus": 0
+                }
+            }
+        ],
+        "IsFinancialSummaryDirty": true,
+        "CalculatedPricingModelCM": null
+    },
+    "DoesRequireMoreInput": false,
+    "ConfigurationSettingTemplates": null
+}

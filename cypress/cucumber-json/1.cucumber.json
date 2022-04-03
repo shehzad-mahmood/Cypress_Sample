@@ -1,0 +1,89 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "1.Login.feature",
+    "elements": [
+      {
+        "id": "login;login-to-spa",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "login to Spa",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Display login page",
+            "result": {
+              "status": "passed",
+              "duration": 4722000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "username",
+                      "password"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "shehzad",
+                      "ddddd*"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "line": 5,
+            "name": "i type in",
+            "result": {
+              "status": "passed",
+              "duration": 29610000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "i click on login button",
+            "result": {
+              "status": "passed",
+              "duration": 5895000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "\"Sales Navigator\" will display",
+            "result": {
+              "status": "passed",
+              "duration": 13446000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "\"salesnavigator\" should display in the url",
+            "result": {
+              "status": "passed",
+              "duration": 2682000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
